@@ -120,6 +120,15 @@ button:hover{
     
 }
 
+.showcase footer a{
+    color: inherit;
+    transition: all 0.5s ease;
+}
+
+.showcase footer a:hover{
+    font-size: 1.5rem;
+}
+
 .menu-content{
     margin:40px;
     float: left;
